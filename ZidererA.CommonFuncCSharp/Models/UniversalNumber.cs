@@ -1,0 +1,1 @@
+﻿namespace ZidererA.CommonFuncCSharp.Models {     public struct UniversalNumber     {              } } 

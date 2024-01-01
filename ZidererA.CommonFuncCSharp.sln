@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZidererA.CommonFuncCSharp", "ZidererA.CommonFuncCSharp\ZidererA.CommonFuncCSharp.csproj", "{4E0F4874-E1E9-4BB1-9938-7F44EB367045}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZidererA.CommonFuncCSharp.TestApp", "ZidererA.CommonFuncCSharp.TestApp\ZidererA.CommonFuncCSharp.TestApp.csproj", "{52DBB364-4A8F-4EC8-8CE8-D0D385A4E120}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E0F4874-E1E9-4BB1-9938-7F44EB367045}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E0F4874-E1E9-4BB1-9938-7F44EB367045}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E0F4874-E1E9-4BB1-9938-7F44EB367045}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E0F4874-E1E9-4BB1-9938-7F44EB367045}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52DBB364-4A8F-4EC8-8CE8-D0D385A4E120}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52DBB364-4A8F-4EC8-8CE8-D0D385A4E120}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52DBB364-4A8F-4EC8-8CE8-D0D385A4E120}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52DBB364-4A8F-4EC8-8CE8-D0D385A4E120}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {897CDF73-DB00-4909-B1DD-202DFBBFC3FA}
+	EndGlobalSection
+EndGlobal
