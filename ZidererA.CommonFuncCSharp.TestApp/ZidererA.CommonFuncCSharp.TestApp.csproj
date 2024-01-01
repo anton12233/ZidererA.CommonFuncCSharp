@@ -49,5 +49,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ZidererA.CommonFuncCSharp\ZidererA.CommonFuncCSharp.csproj">
+      <Project>{4E0F4874-E1E9-4BB1-9938-7F44EB367045}</Project>
+      <Name>ZidererA.CommonFuncCSharp</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
