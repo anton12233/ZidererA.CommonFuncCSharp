@@ -1,0 +1,1 @@
+# ZidererA.CommonFuncCSharp
